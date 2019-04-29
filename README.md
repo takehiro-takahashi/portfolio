@@ -1,6 +1,6 @@
 # portfolio
 
-My name is Takehiro Takahashi.  
+Takehiro Takahashi.  
 My job is Software Engineer(WEB/Mobile).
 
 ## Skils
