@@ -1,20 +1,23 @@
 # portfolio
 
 Takehiro Takahashi.  
-My job is Software Engineer(WEB/Mobile).
+Software Engineer.
 
 ## Skils
 | Skill |
 | ----- |
-| JavaScript |
-| TypeScript |
+| Typescript |
 | Vue |
 | React|
 | Angular |
-| jQuery |
+| jQuery(I tell myself this is a deprecation.) |
 | Dart |
 | Flutter |
 | AngularDart |
+| Python |
+| Ruby |
+| PHP |
+| Golang |
 
 ## Hobby
 | Hobby |
