@@ -18,6 +18,8 @@ Software Engineer.
 | Ruby |
 | PHP |
 | Golang |
+| Kotlin |
+| swift |
 
 ## Hobby
 | Hobby |
